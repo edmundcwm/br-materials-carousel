@@ -6,4 +6,4 @@ A display notice will be shown if ACF Pro (or other dependencies) is missing.
 
 ### Preview
 
-![Demo](demo.gif)
+![Demo](https://media.giphy.com/media/ZeXTelYWSEIjZHU4Ss/giphy.gif)
